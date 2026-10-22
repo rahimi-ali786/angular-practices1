@@ -1,0 +1,14 @@
+.todos{
+  &__item{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+}
+
+form{
+  display: flex;
+  justify-content: flex-start;
+  align-items:center;
+  gap: 8px;
+}
